@@ -2,6 +2,10 @@
 
 ***
 
+> Graphical application for Windows to generate smart passwords.
+
+***
+
 Author and developer: ___A.A. Suvorov___
 
 ***
