@@ -18,7 +18,7 @@ class StringDataMaster
 {
     public Random rand = new Random();
     public string numbers = "1234567890";
-    public string simbols = "@$!%*#?&-";
+    public string simbols = "!@#$%&^_";
     public string smallLetters = "abcdefjhijklmnopqrstuvwxyz";
     public string bigLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
